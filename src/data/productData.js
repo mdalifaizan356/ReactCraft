@@ -1,0 +1,122 @@
+export const products = [
+  {
+    id: 1,
+    title: "Nike Air Max 270",
+    category: "Shoes",
+    price: 6999,
+    discount: 20,
+    rating: 4.5,
+    reviews: 210,
+    inStock: true,
+    brand: "Nike",
+    image: "/pngegg2.png"
+  },
+  {
+    id: 2,
+    title: "Adidas Ultraboost",
+    category: "Shoes",
+    price: 8999,
+    discount: 20,
+    rating: 4.7,
+    reviews: 180,
+    inStock: true,
+    brand: "Adidas",
+    image: "/pngegg2.png"
+  },
+  {
+    id: 3,
+    title: "Puma Running Shoes",
+    category: "Shoes",
+    price: 4999,
+    discount: 20,
+    rating: 4.3,
+    reviews: 140,
+    inStock: false,
+    brand: "Puma",
+    image: "/pngegg.png"
+  },
+  {
+    id: 4,
+    title: "Reebok Classic",
+    category: "Shoes",
+    price: 5999,
+    discount: 20,
+    rating: 4.4,
+    reviews: 125,
+    inStock: true,
+    brand: "Reebok",
+    image: "/pngegg2.png"
+  },
+  {
+    id: 5,
+    title: "Skechers Go Walk",
+    category: "Shoes",
+    price: 5499,
+    discount: 20,
+    rating: 4.6,
+    reviews: 160,
+    inStock: true,
+    brand: "Skechers",
+    image: "/pngegg3.png"
+  },
+  {
+    id: 6,
+    title: "New Balance 574",
+    category: "Shoes",
+    price: 7999,
+    discount: 20,
+    rating: 4.8,
+    reviews: 195,
+    inStock: true,
+    brand: "New Balance",
+    image: "/pngegg2.png"
+  },
+  {
+    id: 7,
+    title: "Asics Gel Kayano",
+    category: "Shoes",
+    price: 9999,
+    discount: 20,
+    rating: 4.9,
+    reviews: 220,
+    inStock: false,
+    brand: "Asics",
+    image: "/pngegg3.png"
+  },
+  {
+    id: 8,
+    title: "Fila Casual Sneakers",
+    category: "Shoes",
+    price: 3999,
+    discount: 20,
+    rating: 4.1,
+    reviews: 90,
+    inStock: true,
+    brand: "Fila",
+    image: "/pngegg3.png"
+  },
+  {
+    id: 9,
+    title: "Converse Chuck Taylor",
+    category: "Shoes",
+    price: 6499,
+    discount: 20,
+    rating: 4.7,
+    reviews: 175,
+    inStock: true,
+    brand: "Converse",
+    image: "/pngegg3.png"
+  },
+  {
+    id: 10,
+    title: "Vans Old Skool",
+    category: "Shoes",
+    price: 5999,
+    discount: 20,
+    rating: 4.6,
+    reviews: 155,
+    inStock: true,
+    brand: "Vans",
+    image: "/pngegg3.png"
+  }
+];
